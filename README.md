@@ -60,6 +60,18 @@ Computer Engineering graduate turning theory into real products. I focus on clea
 
 ---
 
+### 💼 Experience
+
+**Software Developer — ATIB Bank** · *Feb 2026 – Present*
+- Building the production **React Native (Expo) mobile banking app** for Libya in TypeScript, with full Arabic RTL support and biometric authentication
+- Implementing a feature-based architecture with **Zustand**, **TanStack Query** and **NativeWind**, using Expo SecureStore for sensitive token/PIN storage
+- Translating an interactive prototype into a polished, animated native experience (Reanimated, gesture-driven flows)
+
+**Software Development Intern — Study Link Agency** · *Feb 2025 – May 2025*
+- Built a responsive company web app end-to-end with **Flask**, HTML, CSS & JavaScript — from backend logic to UI, including form submission and email handling
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
