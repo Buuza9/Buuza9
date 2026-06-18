@@ -27,28 +27,24 @@ I turn computer-science theory into real-world projects. I focus on writing clea
 ### 🛠️ Tech Stack
 
 **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="languages" /></a>
 
-**Data & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Frontend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="frontend" /></a>
+
+**Backend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="backend" /></a>
+
+**Data & Databases**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,numpy&theme=dark" alt="data and databases" /></a>
+
+**Tools**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="tools" /></a>
 
 ---
 
@@ -67,9 +63,22 @@ I turn computer-science theory into real-world projects. I focus on writing clea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Buuza9&style=flat&color=7aa2f7&label=Profile+Views" alt="profile views" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buuza9&theme=tokyonight&hide_border=true" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buuza9&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Buuza9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </p>
