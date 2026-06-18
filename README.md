@@ -1,21 +1,75 @@
-# 💫 About Me:
-I’m a Computer Science graduate turning theory into real-world projects. I love building practical tools, exploring full-stack JavaScript, and improving my system design thinking with each commit.<br><br>🚀 What I’m Doing<br>	•	Building web apps using Node.js, Express, JavaScript, Python.<br>	•	Practicing React and SwiftUI for clean, minimal UIs.<br>	•	Developing projects like an online banking system to learn scalable, secure structuring.<br><br>🌱 Always Learning<br><br>My CS degree gave me the fundamentals; now I focus on:<br>	•	Writing clean, maintainable code.<br>	•	Understanding design choices and trade-offs.<br>	•	Questioning “why” instead of copying blindly.
+<h1 align="center">Hi, I'm Mohammed Salah 👋</h1>
+<p align="center">
+  <b>Software Engineer · Computer Science Graduate</b><br>
+  Building clean, scalable, full-stack web applications.<br>
+  📍 Tripoli, Libya
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Salah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.sloha99@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Buuza9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Buuza9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Buuza9&theme=default&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://mohammeds-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mohammed-salah-b33585324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:md.sloha99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Buuza9&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I turn computer-science theory into real-world projects. I focus on writing clean, maintainable code and understanding the *why* behind design trade-offs rather than copying blindly.
+
+- 🔭 Building full-stack web apps with **TypeScript, Next.js, React, Node.js**
+- 🧱 Exploring **system design** and scalable, secure architecture
+- 📊 Practicing **data science** with Python (NumPy, Pandas, Matplotlib)
+- 🌱 Always learning — every commit is a chance to write something better
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Data & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**jeera**](https://github.com/Buuza9/jeera) | Project / issue-tracking style web app |
+| [**odoo-docs**](https://github.com/Buuza9/odoo-docs) | Interactive Odoo ERP (Accounting) interview-prep docs with a modern UI |
+| [**smart-online-quiz-systeme**](https://github.com/Buuza9/smart-online-quiz-systeme) | Python CLI quiz platform with user stats, ranking & a dynamic leaderboard |
+| [**free-convert-app**](https://github.com/Buuza9/free-convert-app) | Web app that converts files between different formats |
+| [**data-science-projects**](https://github.com/Buuza9/data-science-projects) | Hands-on data-science projects using NumPy, Pandas & Matplotlib |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buuza9&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+</p>
