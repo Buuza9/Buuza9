@@ -63,22 +63,24 @@ I turn computer-science theory into real-world projects. I focus on writing clea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buuza9&style=flat&color=7aa2f7&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Buuza9&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buuza9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top langs" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buuza9&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buuza9&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buuza9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Buuza9&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
