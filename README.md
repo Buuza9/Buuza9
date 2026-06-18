@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Salah 👋</h1>
 <p align="center">
-  <b>Software Engineer · Computer Science Graduate</b><br>
-  Building clean, scalable, full-stack web applications.<br>
+  <b>Software Developer @ ATIB Bank · Computer Engineering Graduate</b><br>
+  Building clean, scalable, full-stack web & mobile applications.<br>
   📍 Tripoli, Libya
 </p>
 
@@ -15,12 +15,12 @@
 
 ### 💫 About Me
 
-I turn computer-science theory into real-world projects. I focus on writing clean, maintainable code and understanding the *why* behind design trade-offs rather than copying blindly.
+Computer Engineering graduate turning theory into real products. I focus on clean, maintainable code and the *why* behind design trade-offs.
 
-- 🔭 Building full-stack web apps with **TypeScript, Next.js, React, Node.js**
-- 🧱 Exploring **system design** and scalable, secure architecture
-- 📊 Practicing **data science** with Python (NumPy, Pandas, Matplotlib)
-- 🌱 Always learning — every commit is a chance to write something better
+- 💼 Software Developer at **ATIB Bank**, building a new digital banking platform
+- 🔭 Working across the stack with **TypeScript, Next.js, React Native, Node.js & Supabase**
+- 🧱 Comfortable with **system design** — RLS, realtime, server-side logic, monorepos
+- 🎓 **B.Tech in Computer Engineering**, SHUATS (2021–2026)
 
 ---
 
@@ -52,11 +52,11 @@ I turn computer-science theory into real-world projects. I focus on writing clea
 
 | Project | Description |
 |---------|-------------|
-| [**jeera**](https://github.com/Buuza9/jeera) | Project / issue-tracking style web app |
-| [**odoo-docs**](https://github.com/Buuza9/odoo-docs) | Interactive Odoo ERP (Accounting) interview-prep docs with a modern UI |
-| [**smart-online-quiz-systeme**](https://github.com/Buuza9/smart-online-quiz-systeme) | Python CLI quiz platform with user stats, ranking & a dynamic leaderboard |
-| [**free-convert-app**](https://github.com/Buuza9/free-convert-app) | Web app that converts files between different formats |
-| [**data-science-projects**](https://github.com/Buuza9/data-science-projects) | Hands-on data-science projects using NumPy, Pandas & Matplotlib |
+| [**Djeera 🛵**](https://github.com/Buuza9/jeera) | Solo-built motorcycle ride-hailing platform for Libya — React Native (Expo) rider & driver apps + Next.js admin, in a Turborepo monorepo on Supabase/Postgres with RLS, realtime tracking, server-side fare & commission settlement, OTP auth, and full Arabic/English RTL |
+| **E-Library** | Full-stack online library (React + Node.js) with auth, book search and a shopping cart |
+| **University Admission Portal** | Flask + React + SQLite app with multi-step forms, file uploads, visa applications and an admin dashboard |
+| **Online Banking System** | Secure banking app with role-based access (clients, tellers, managers, auditors) — Flask, SQLite, Bootstrap |
+| [**House-Price ML Model**](https://github.com/Buuza9/data-science-projects) | Price-prediction model with Python & scikit-learn, reaching ~85% accuracy on test data |
 
 ---
 
